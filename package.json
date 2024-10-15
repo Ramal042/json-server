@@ -8,7 +8,7 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "server": "npx json-server ./db.json5"
+    "server": "npx json-server ./db.json"
   },
   "dependencies": {
     "@emotion/react": "^11.13.3",
