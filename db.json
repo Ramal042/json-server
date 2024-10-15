@@ -1,75 +1,75 @@
 {
-  fast: [
+  "fast": [
     {
-      id: 1,
-      mealName: "Baconator",
-      kcal: 950,
-      cuisine: "USA",
+      "id": 1,
+      "mealName": "Baconator",
+      "kcal": 950,
+      "cuisine": "USA"
     },
     {
-      id: 2,
-      mealName: "Big Mac",
-      kcal: 550,
-      cuisine: "USA",
+      "id": 2,
+      "mealName": "Big Mac",
+      "kcal": 550,
+      "cuisine": "USA"
     },
     {
-      id: 3,
-      mealName: "Cheeseburger",
-      kcal: 300,
-      cuisine: "USA",
+      "id": 3,
+      "mealName": "Cheeseburger",
+      "kcal": 300,
+      "cuisine": "USA"
     },
     {
-      id: 4,
-      mealName: "Whopper",
-      kcal: 657,
-      cuisine: "USA",
+      "id": 4,
+      "mealName": "Whopper",
+      "kcal": 657,
+      "cuisine": "USA"
     },
     {
-      id: 5,
-      mealName: "Double Quarter Pounder",
-      kcal: 740,
+      "id": 5,
+      "mealName": "Double Quarter Pounder",
+      "kcal": 740
     },
     {
-      id: 6,
-      mealName: "Spicy Chicken Sandwich",
-      kcal: 590,
-      cuisine: "USA",
+      "id": 6,
+      "mealName": "Spicy Chicken Sandwich",
+      "kcal": 590,
+      "cuisine": "USA"
     },
     {
-      id: 7,
-      mealName: "Chicken McNuggets",
-      kcal: 440,
-      cuisine: "USA",
+      "id": 7,
+      "mealName": "Chicken McNuggets",
+      "kcal": 440,
+      "cuisine": "USA"
     },
     {
-      id: 8,
-      mealName: "Fish Sandwich",
-      kcal: 380,
-      cuisine: "USA",
+      "id": 8,
+      "mealName": "Fish Sandwich",
+      "kcal": 380,
+      "cuisine": "USA"
     },
     {
-      id: 9,
-      mealName: "Taco Salad",
-      kcal: 350,
-      cuisine: "USA",
+      "id": 9,
+      "mealName": "Taco Salad",
+      "kcal": 350,
+      "cuisine": "USA"
     },
     {
-      id: 10,
-      mealName: "Frosty",
-      kcal: 400,
-      cuisine: "USA",
+      "id": 10,
+      "mealName": "Frosty",
+      "kcal": 400,
+      "cuisine": "USA"
     },
     {
-      id: 11,
-      mealName: "Crispy Chicken Sandwich",
-      kcal: 580,
-      cuisine: "USA",
+      "id": 11,
+      "mealName": "Crispy Chicken Sandwich",
+      "kcal": 580,
+      "cuisine": "USA"
     },
     {
-      id: 12,
-      mealName: "Steakhouse Salad",
-      kcal: 470,
-      cuisine: "USA",
-    },
-  ],
+      "id": 12,
+      "mealName": "Steakhouse Salad",
+      "kcal": 470,
+      "cuisine": "USA"
+    }
+  ]
 }
